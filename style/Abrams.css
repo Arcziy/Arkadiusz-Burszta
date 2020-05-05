@@ -8,7 +8,7 @@ div.pic{
 }
 img.pic{
 	height:378px;
-    width:500px;
+    width:677px;
     float: left;
 }
 div.title{
@@ -24,16 +24,14 @@ div.titlep{
 }
 div.title2{
     height: 150px;
-    width: 100%;
     text-align: center;
-    background-color: #c45e23;
-    font-size: 50px;
+    background-color: #3a1564;
 }
 div.menu{
     height:500px;
 }
 div.strony{
-	background-color:#c45e23;
+	background-color:rgb(190, 67, 238);
 	height:250px;
 	width:100%;
     float:bottom;
@@ -52,13 +50,13 @@ p.main{
     height: 160px;
 	font-size:17px;
     text-align:center;
-    background-color: rgb(247, 154, 33);
+    background-color: rgb(190, 67, 238);
 }
 p.wiki{
     text-align:center;
     height: 25px;
     font-size:20px;
-    background-color: #c45e23;
+    background-color: #3a1564;
     margin-bottom: 0px;
 }
 div.stopka{
