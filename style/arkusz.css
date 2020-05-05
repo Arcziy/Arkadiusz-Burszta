@@ -56,7 +56,7 @@ div.stronytytuł{
 	background-color:rgb(6, 230, 192);
 	text-align:center;
 	font-size:25px;
-	border-top: solid;
+	border-bottom: solid;
 	border-color: #FF6BA1;
 }
 div.title{
