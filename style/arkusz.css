@@ -179,3 +179,10 @@ div.stopka{
 ul.info{
 	list-style-type: circle;
 }
+img.foto3{
+	position: absolute;
+	top: 15px;
+	right: 10px;
+	width:62px;
+	height:40px;
+}
